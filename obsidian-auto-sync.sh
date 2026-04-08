@@ -2,12 +2,11 @@
 
 VAULT_DIR="/home/weberty/Documents/P21"
 
-cd "$VAULT_DIR" || exit
+/usr/bin/git -C "$VAULT_DIR" add .
 
-git add .
-
-if ! git diff --cached --quiet; then
-    git commit -m "Daily auto backup: $(date '+%Y-%m-%d %H:%M:%S')"
-    git push origin master
+if ! /usr/bin/git -C "$VAULT_DIR" diff --cached --quiet; then
+    /usr/bin/git -C "$VAULT_DIR" commit -m "Daily auto backup: $(date '+%Y-%m-%d %H:%M:%S')"
+    /usr/bin/git -C "$VAULT_DIR" push origin master
 fi
 
+export PATH=/usr/bin:/bin:/usr/local/bin
