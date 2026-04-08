@@ -1,0 +1,1 @@
+- Usamos a ferramenta de OKRs para definir os objetivos e resultados que precisamos ter. E fazemos checkins periódicos para recalcular a rota sempre que necessário.

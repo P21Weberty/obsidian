@@ -1,0 +1,3 @@
+No dia anterior tivemos uma discussão sobre a necessidade da clareza nessas metas, pois em alguns casos pode ficar confuso o que era objetivo com o que era resultado chave para atingir esse objetivo. 
+
+É transparente no OKR qual o objetivo principal, mas no dia a dia, muitas vezes tratamos a Migração como uma ação em si mesmo pois hoje é a mais impactante. Por isso é importante essa clareza que o objetivo é redução de custos, a migração do PHP é um resultado chave para esse objetivo final. É um passo, mas depois de concluído daremos outros
