@@ -37,7 +37,7 @@ FIZ:
 FAREI:
 - Atuar no quadro 1994
 IMPEDIMENTOS:
-- 
+- Dúvida de onde atuar
 
 
 William
@@ -46,7 +46,7 @@ FIZ:
 FAREI:
 - 
 IMPEDIMENTOS:
-- 
+- Dúvida de onde atuar por conta da WIP
 
 
 Jerfeson
