@@ -10,9 +10,10 @@
 **09/04/2026**
 - Tivemos nossa reunião de apresentação dos OKRS, no de oportunidades de redução de despesas, trouxe novamente o ponto.
 - Falei que já montei essa estrutura e eu conseguiria pegar. Precisaria de auxílio do time apenas para marcar quando entrar numa demanda para ajustes para contabilizarmos as horas, e do Clockwork, ferramenta que custa 20dolares mensais.
-- A ideia foi rejeitada, pois o diagnóstico toma tempo. 
 
 
 
- **Hoje não sabemos o custo operacional do time, e quanto desperdiçamos. Ao meu ver é o nosso maior custo hoje.**
- **Aparentemente, vamos continuar sem saber.**
+
+**A ideia foi rejeitada, pois o diagnóstico "toma tempo" de ações que podem ser mais relevantes. Ainda não definimos nenhuma outra ação.** 
+
+**Hoje não sabemos o custo operacional do time, e quanto desperdiçamos. Ao meu ver é o nosso maior custo hoje.**

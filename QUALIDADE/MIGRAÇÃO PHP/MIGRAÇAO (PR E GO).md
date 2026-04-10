@@ -1,6 +1,7 @@
 
 **02/04/2026**
-Tivemos uma reunião para definir as ações dos okrs, um dos OKRs era o de migração do PHP. Eu trouxe o ponto de priorizar 
+Tivemos uma reunião para definir as ações dos okrs, um dos OKRs era o de migração do PHP. Eu trouxe o ponto de priorizar a reunião de alinhamento no começo da semana.
+- Foi trago o contraponto de que cada pessoa é responsável por uma parte do processo, eu sou responsável pelos testes, então se chega no final da semana e não está pronto é responsabilidade minha.
 
 **06/04/2026**
 Tentei iniciar a semana priorizando esses testes. 
@@ -8,7 +9,7 @@ Tentei iniciar a semana priorizando esses testes.
 		- Provavelmente ficará para sexta pois esse teste tem muitos impactos.
 
 **07/04/2026**
-Migraremos o MG
+Migraremos o MG e não o PR
 
 **08/04/2026**
 - Tive um tempo livre, pois reportei um RB na 2051 e o Jeff está em reunião agora a tarde. Enquanto isso peguei por conta própria e vim testar o MG. 
