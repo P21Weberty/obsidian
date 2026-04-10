@@ -26,7 +26,7 @@ FIZ:
 - 1950
 - Tickets N2
 FAREI:
-- 
+- Análise técnica
 IMPEDIMENTOS:
 - 
 

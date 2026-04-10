@@ -1,2 +1,0 @@
-Tentei iniciar a semana priorizando esses testes. Na Diária foi alinhado de seguir com o teste da 2052 e fazer depois os testes do PR e GO, depois que entregar o teste no aceite. 
-		- Provavelmente ficará para sexta pois esse teste é bem grande.
