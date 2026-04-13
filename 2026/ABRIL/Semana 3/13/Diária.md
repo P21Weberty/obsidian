@@ -11,7 +11,6 @@ Impedimentos:
 - Entrar em todos estados que tem o BB e verificar se está correto
 	- Verificar os com o parâmetro desmarcado.
 - Definir como será a migração dessa semana, e que cenários precisamos validar. 
-	-
 	- PR, GO, RJ, AM
 		- Testar relatório de remessa análitico detalhada
 			- Definir o tempo mínimo da ação
