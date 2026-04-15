@@ -32,3 +32,7 @@ Definir como será a migração dessa semana, e que cenários precisamos validar
 
 **15/04/2026**
 - Ao citar novamente que serão 4 estados, o time ficou surpreso, e mostrou resistência. Provavelmente não migraremos.
+- Calendário das próximas migrações
+	- CRAPR e CRAGO: 17/04
+	- CRARJ. CRAAM BASEAGENCIA, BASECEDENTE: 24/04
+- Foi alinhado no grupo geral do discord para eu priorizar esses testes, plataformas e sobrescritas.
