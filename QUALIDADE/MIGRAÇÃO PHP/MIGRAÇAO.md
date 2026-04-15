@@ -21,3 +21,14 @@ Migraremos o MG e não o PR
 **10/04/2026**
 - Vamos migrar hoje
 - Os cenários não foram validados. 
+
+**13/04/2026**
+Definir como será a migração dessa semana, e que cenários precisamos validar. 
+	- PR, GO, RJ, AM
+		- Testar relatório de remessa análitico detalhada
+			- Definir o tempo mínimo da ação
+			- Verificar em prod
+- **O time não está atento, ninguém questionou sobre ser 4 estados.** 
+
+**15/04/2026**
+- Ao citar novamente que serão 4 estados, o time ficou surpreso, e mostrou resistência. Provavelmente não migraremos.
