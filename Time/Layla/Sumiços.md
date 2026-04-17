@@ -7,4 +7,5 @@
 18/03/2026 - Quarta
 30/03/2026 - Segunda
 01/04/2026 - Quarta
-14/04/2026 - Terça
+14/04/2026 - Terça (Filha doente)
+17/04/2026 - Sexta (Alta da fillha)
