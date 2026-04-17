@@ -9,7 +9,7 @@
 - Código legado → **bugs em produção (KR1)**
 - Código difícil de manutenir → **atraso nas entregas (KR2)**  KR4
 
-44% do nosso esforço foi correção e 83% desses bugs vêm de código legado
+44% do nosso esforço foi com bugs e 83% desses bugs vêm de código legado
 **Faz sentido atacar essa causa pra melhorar nossa capacidade de entrega?**
 
 
