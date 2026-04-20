@@ -1,0 +1,68 @@
+*Dados com base em reportes realizados a partir de 01/01/2026*
+
+**Dev atuante em demandas que gereram bugs (com base no bug origin)**
+- Gabriel = 2
+- Jerfeson = 4
+- Layla = 2
+---
+
+**QUANTIDADE DE :RR: REPORTADOS NO DISCORD (Considerando como RB corrigido)**
+### **Gabriel (17 no total)**
+- CRA-1950 → **6x**
+- 1x cada:
+    - CRA-2071
+    - CRA-2070
+    - CRA-2058
+    - CRA-2038
+    - CRA-2044
+    - CRA-2031
+    - CRA-2035
+    - CRA-2024
+    - CRA-1992
+    - CRA-1991
+    - CRA-1985
+    - CRA-1988
+---
+### **Jerfeson (30 no total)**
+- CRA-1896 → **4x**
+- CRA-2051 → **2x**
+- CRA-2016 → **2x**
+- 1x cada:
+    - CRA-2065
+    - CRA-2063
+    - CRA-2022
+    - CRA-2057
+    - CRA-2062
+    - CRA-2043
+    - CRA-2061
+    - CRA-2036
+    - CRA-2045
+    - CRA-2026
+    - CRA-2021
+    - CRA-2020
+    - CRA-1997
+    - CRA-1894
+    - CRA-2019
+    - CRA-1989
+    - CRA-2017
+    - CRA-1944
+    - CRA-2000
+    - CRA-2018
+    - CRA-2004
+    - CRA-2011
+    - CRA-2012
+- 
+---
+### **Layla (24 no total)**
+- CRA-2048 → **3x**
+- CRA-2007 → **3x**
+- CRA-2009 → **5x**
+- CRA-1909 → **4x**
+- CRA-2001 → **2x**
+- CRA-2010 → **2x**
+- CRA-2014 → **2x**
+- 1x cada:
+    - CRA-1995
+    - CRA-2015
+    - CRA-1980
+    - CRA-2003
