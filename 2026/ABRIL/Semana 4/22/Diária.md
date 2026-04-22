@@ -1,8 +1,6 @@
 Fiz:
-- Finalizei os testes do AM e RJ
-	- Faltando apenas validar BaseAgencia e Cedente
-- Montei os PRs de publicação da 2078 no final do dia, precisamos finalizar a release pra fazer o deploy.  A da master tá ok, a do 7.3 deu conflito lá nas crons.
+- Finalizei os testes do AM e RJ, vi as plataformas e todas as sobrescritas. Tinham muitos arquivos sobrescritos, mas ao entrar nas regras mesmo não eram tantas, então deu pra finalizar tudo.
 Farei:
-- 
+- O que ficou pendente foi validar BaseAgencia e Cedente
 Impedimentos:
 - 
