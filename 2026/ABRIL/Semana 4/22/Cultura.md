@@ -1,8 +1,8 @@
 Tema: 
-Não vivemos o respeito quando não contribuímos para a harmonia no ambiente de trabalho.
+Vivemos o respeito quando cumprimos os alinhamentos
 
 Questionamento:
-O que pode nos levar a não seguir um alinhamento?
+Como queremos ser lembrados como time nesse tema
 
 
 

@@ -1,0 +1,1 @@
+Atestado médico referente ao período de [data início] a [data fim].
